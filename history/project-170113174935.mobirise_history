@@ -22,10 +22,8 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 28,
-    "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "uniqCompNum": 21,
+    "versionPublish": "3.10.4"
   },
   "pages": {
     "index.html": {
@@ -40,216 +38,31 @@
       "components": [
         {
           "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "700",
-              "color": "#2c3e50",
-              "font-size": "46px"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "letter-spacing": "2px",
-              "color": "#000000"
-            },
-            ".mbr-section-text": {
-              "color": "#000000"
-            }
-          },
-          "title1": "Bootstrap 4",
-          "title2": "Responsive",
-          "title3": "Web Fonts",
-          "title4": "Unlimited Sites",
-          "title5": "Trendy Website Blocks",
-          "title6": "Host Anywhere",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-r",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/features/03.jpg",
-            "bgColor": "#ecf0f1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#2c3e50",
-            "showTitle": true,
-            "columns": "3",
-            "showImages": true,
-            "showTitles": true,
-            "ShowTexts": true,
-            "showButtons": false
-          },
-          "title": "<br>City Tattersalls Bowling Combination&nbsp;",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/introduction-to-lawnbowls-600x399.jpg",
-              "class": "features-img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "phone",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "The Men’s Lawn Bowls Club associated with Sydney City Tattersalls. ",
-          "buttons1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/55-2967232-ips090215iusbowls5-fct910x683x66-600x449.jpg",
-              "class": "features-img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "edit",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "subtitle2": "<br>One of Bootstrap 4's big points",
-          "caption2": "Club meets and plays  Tuesdays  throughout the year.",
-          "buttons2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/bowls-small-600x400.jpg",
-              "class": "features-img",
-              "width": 600,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "subtitle3": "<span style=\"font-size: 1rem; line-height: 1.85em; background-color: transparent;\">Google has a highly exhaustive list of fonts</span><br>",
-          "caption3": "New members and visiting bowlers warmly welcomed",
-          "buttons3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/04.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "buttons4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/05.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "briefcase",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "buttons5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "@THEME_PATH@/components/_images/features/06.jpg",
-              "class": "features-img",
-              "width": 600
-            },
-            "iconFont": {
-              "active": false,
-              "class": "mbr-iconfont mbr-iconfont-features4",
-              "name": "linegraph",
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#fff",
-              "family": "et-line"
-            }
-          },
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "buttons6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">learn more</a>"
-        },
-        {
-          "_styles": {
             ".lead": {
               "color": "#9fa3a7"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
-              "font-size": "30px",
-              "text-align": "left",
-              "color": "#000000"
+              "font-size": "18px"
             },
             "DIV": {
-              "color": "#ffffff",
+              "color": "#ecf0f1",
               "text-align": "left",
               "font-size": "14px"
             },
-            ".mbr-section-text": {
-              "color": "#000000",
-              "font-size": "20px"
-            },
-            ".mbr-section-title": {
+            ".mbr-section-title B": {
               "color": "#000000"
             },
-            ".mbr-section-text B": {
-              "font-size": "30px"
+            ".mbr-section-subtitle B": {
+              "color": "#000000"
+            },
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
             }
           },
-          "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -266,14 +79,17 @@
             "Theme"
           ],
           "_name": "features8",
-          "_anchor": "features8-q",
+          "number1": "1",
+          "subtitle1": "<b>City tattersalls bowling combination</b>",
+          "caption1": "",
+          "_anchor": "features8-a",
           "_params": {
-            "imageSize": "38",
             "paddingTop": "4",
             "paddingBottom": "2",
-            "bgImageRadio": false,
+            "iconsBgColor": "@primaryColor",
             "parallax": true,
-            "bgImage": "file:///C:/Users/Anthony/AppData/Local/Mobirise.com/Mobirise/projectData/05_4.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/features/05.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
             "bgVideo": {
@@ -283,21 +99,18 @@
             "overlay": true,
             "overlayOpacity": 0.9,
             "overlayColor": "#ecf0f1",
-            "showNumber": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
+            "showHeading": true,
+            "showText": true,
+            "showTitle": true,
             "showButtons": false,
-            "showImages": true
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
           },
-          "number1": "1",
-          "subtitle1": "City tattersalls bowling combination",
-          "title1": "",
-          "caption1": "<b>The Men’s Lawn Bowls Club associated with Sydney City Tattersalls.  <br><br>Club meets and plays &nbsp;Tuesdays &nbsp;throughout the year.<br><br>New members and visiting bowlers warmly welcomed</b><br>",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bowls-small-600x4002.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bowls-small-600x400-27.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -306,7 +119,100 @@
               "title": "",
               "linkInNewWindow": false
             }
-          }
+          },
+          "title1": "<b>The Men’s Lawn Bowls Club associated with Sydney City Tattersalls. &nbsp;</b><br><br><b>Club meets and plays on Tuesdays throughout the year</b><br><br><b>New members and visiting bowlers warmly welcomed</b>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "title2": "Responsive",
+          "title3": "Web Fonts"
+        },
+        {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "font-size": "18px"
+            },
+            "DIV": {
+              "color": "#ecf0f1",
+              "text-align": "left",
+              "font-size": "14px"
+            },
+            ".mbr-section-title B": {
+              "color": "#000000"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#000000"
+            },
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
+            }
+          },
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features8",
+          "number1": "1",
+          "subtitle1": "<b>City tattersalls bowling combination</b>",
+          "caption1": "",
+          "_anchor": "features8-k",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "2",
+            "iconsBgColor": "@primaryColor",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/Anthony/AppData/Local/Mobirise.com/Mobirise/projectData/05_1.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showHeading": true,
+            "showText": true,
+            "showTitle": true,
+            "showButtons": false,
+            "showFeaturesImages": true,
+            "showFeaturesTitles": true,
+            "showFeaturesTexts": true,
+            "showFeaturesButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/bowls-small-600x400-27-1.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "<b>The Men’s Lawn Bowls Club associated with Sydney City Tattersalls. &nbsp;</b><br><br><b>Club meets and plays on Tuesdays throughout the year</b><br><br><b>New members and visiting bowlers warmly welcomed</b>",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "title2": "Responsive",
+          "title3": "Web Fonts"
         },
         {
           "_styles": {
@@ -315,6 +221,10 @@
             },
             ".mbr-section-title": {
               "font-weight": "700"
+            },
+            ".mbr-iconfont": {},
+            ".mbr-table-cell": {
+              "vertical-align": "middle"
             }
           },
           "alias": "colorm/components",
@@ -322,15 +232,15 @@
             "Theme"
           ],
           "_name": "header2",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "_anchor": "header2-2",
           "_params": {
-            "buttonAlign": "right",
-            "iconsColor": "#ffffff",
+            "containerColor1": "#631c70",
+            "containerColor2": "#3ca8c7",
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
-            "bgColor": "#8e44ad",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -339,14 +249,14 @@
             "overlay": true,
             "overlayOpacity": 0.9,
             "overlayColor": "#ffffff",
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": true
           },
           "title": "DROP-DEAD EASY<br>WEBSITE<br>MAKER",
           "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>"
         },
         {
           "_styles": {
@@ -368,28 +278,6 @@
             "Theme"
           ],
           "_name": "header9",
-          "_anchor": "header9-3",
-          "_params": {
-            "tabs": "3",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/header/04.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#ecf0f1",
-            "showHeader": true,
-            "showText": true,
-            "showImages": true,
-            "showTitles": true
-          },
-          "title": "<br>What is Mobirise?",
-          "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit asperiores itaque vero facere laudantium voluptas temporibus mollitia, nisi deleniti illo minima quisquam corporis possimus nesciunt.",
           "tabTitle": "<li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link active text-warning\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1header9-3\">Responsive</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2header9-3\">Creative</a></li><li class=\"nav-item\" style=\"display: block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3header9-3\">Animated</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4header9-3\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5header9-3\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6header9-3\">Beautiful</a></li>",
           "media11": {
             "image": {
@@ -510,7 +398,31 @@
             }
           },
           "title6": "CONTACT FORMS",
-          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum."
+          "text6": "Easily add subscribe and contact forms without any server-side integration. Just link your email to form and get submissions instantly. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium id perspiciatis, sint odit error animi veniam omnis cupiditate distinctio, a quidem deleniti laborum maiores optio laudantium earum vel! Sint, rerum.",
+          "_anchor": "header9-3",
+          "_params": {
+            "imageSize": 55,
+            "containerColor1": "#00A8C5",
+            "containerColor2": "#FFFF7E",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/header/04.jpg",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showImage": true,
+            "showTitle": true,
+            "showText": true,
+            "showButton": true,
+            "showArrow": true
+          },
+          "title": "<br>What is Mobirise?",
+          "text": "Mobirise is an offline app for Window and Mac to easily create small/medium websites, landing pages, online resumes and portfolios, promo sites for apps, events, services and products. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit asperiores itaque vero facere laudantium voluptas temporibus mollitia, nisi deleniti illo minima quisquam corporis possimus nesciunt."
         },
         {
           "_styles": {
@@ -519,15 +431,16 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
             }
           },
-          "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -541,14 +454,18 @@
             "Theme"
           ],
           "_name": "features6",
+          "number1": "1",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
           "_anchor": "features6-6",
           "_params": {
-            "imageSize": 50,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
+            "iconsBgColor": "@primaryColor",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/features/05.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": true,
             "bgVideo": {
@@ -558,22 +475,17 @@
             "overlay": true,
             "overlayOpacity": 0.9,
             "overlayColor": "#ecf0f1",
-            "showNumber": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
             "showButtons": true,
-            "showImages": true
+            "columns": 3
           },
-          "number1": "1",
-          "subtitle1": "Bootstrap 4 has been noted",
           "title1": "Bootstrap 4",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
           "media1": {
             "image": {
               "active": false,
-              "src": "@PROJECT_PATH@/assets/images/nb11.png",
+              "src": "@ADDONS_PATH@/colorm/components/_images/notebook/nb11.png",
               "class": "card-img-top",
               "width": 600
             },
@@ -584,7 +496,10 @@
               "autoplay": false,
               "loop": false
             }
-          }
+          },
+          "title2": "Responsive",
+          "title3": "Web Fonts",
+          "title4": "Unlimited Sites"
         },
         {
           "_styles": {
@@ -597,13 +512,7 @@
             },
             ".mbr-section-title": {
               "color": "#242424",
-              "font-weight": "bold",
-              "font-size": "60px",
-              "text-align": "center"
-            },
-            ".mbr-section-text B": {
-              "font-size": "32px",
-              "color": "#000000"
+              "font-weight": "bold"
             }
           },
           "alias": "colorm/components",
@@ -611,13 +520,19 @@
             "Theme"
           ],
           "_name": "header7",
+          "subtitle": "mobirise builder",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png",
           "_anchor": "header7-9",
           "_params": {
+            "imageSize": 30,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "containerColor1": "#bf359d",
+            "containerColor2": "#dc4c35",
+            "containerColor3": "#fdff81",
             "parallax": true,
             "bgImageRadio": false,
-            "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/header/01.jpg",
-            "bgColor": "#ecf0f1",
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/header/01.jpg",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
@@ -626,27 +541,22 @@
             "overlay": true,
             "overlayOpacity": 0.9,
             "overlayColor": "#ecf0f1",
-            "showSubtitle": true,
+            "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": true,
+            "showArrow": true
           },
-          "subtitle": "",
-          "title": "CITY TATTERSALLS BOWLING COMBINATION",
-          "text": "<b><br></b><br><b>The Men’s Lawn Bowls Club associated with Sydney City Tattersalls</b>. <br><br><b>Club meets and plays  Tuesdays  throughout the year.<br></b><br><b>New members and visiting bowlers warmly welcomed</b><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>",
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/introduction-to-lawnbowls-640x426.jpg",
+              "src": "@PROJECT_PATH@/assets/images/03.jpg",
               "class": "",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
+          "title": "DROP-DEAD EASY <br>WEBSITE<br> MAKER",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">learn more</a>"
         },
         {
           "_styles": {
@@ -655,15 +565,16 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
             }
           },
-          "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -677,14 +588,18 @@
             "Theme"
           ],
           "_name": "features6",
+          "number1": "1",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
           "_anchor": "features6-b",
           "_params": {
-            "imageSize": 50,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
+            "iconsBgColor": "@primaryColor",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/features/05.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": true,
             "bgVideo": {
@@ -694,22 +609,17 @@
             "overlay": true,
             "overlayOpacity": 0.9,
             "overlayColor": "#ecf0f1",
-            "showNumber": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
             "showButtons": true,
-            "showImages": true
+            "columns": 3
           },
-          "number1": "1",
-          "subtitle1": "Bootstrap 4 has been noted",
           "title1": "Bootstrap 4",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
           "media1": {
             "image": {
               "active": false,
-              "src": "@PROJECT_PATH@/assets/images/nb11.png",
+              "src": "@ADDONS_PATH@/colorm/components/_images/notebook/nb11.png",
               "class": "card-img-top",
               "width": 600
             },
@@ -720,7 +630,10 @@
               "autoplay": false,
               "loop": false
             }
-          }
+          },
+          "title2": "Responsive",
+          "title3": "Web Fonts",
+          "title4": "Unlimited Sites"
         },
         {
           "_styles": {
@@ -729,15 +642,16 @@
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase"
+            },
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
             }
           },
-          "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -751,14 +665,18 @@
             "Theme"
           ],
           "_name": "features6",
+          "number1": "1",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
           "_anchor": "features6-c",
           "_params": {
-            "imageSize": 50,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
+            "iconsBgColor": "@primaryColor",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/features/05.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": true,
             "bgVideo": {
@@ -768,22 +686,17 @@
             "overlay": true,
             "overlayOpacity": 0.9,
             "overlayColor": "#ecf0f1",
-            "showNumber": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
             "showButtons": true,
-            "showImages": true
+            "columns": 3
           },
-          "number1": "1",
-          "subtitle1": "Bootstrap 4 has been noted",
           "title1": "Bootstrap 4",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\">learn more</a>",
           "media1": {
             "image": {
               "active": false,
-              "src": "@PROJECT_PATH@/assets/images/nb11.png",
+              "src": "@ADDONS_PATH@/colorm/components/_images/notebook/nb11.png",
               "class": "card-img-top",
               "width": 600
             },
@@ -794,7 +707,10 @@
               "autoplay": false,
               "loop": false
             }
-          }
+          },
+          "title2": "Responsive",
+          "title3": "Web Fonts",
+          "title4": "Unlimited Sites"
         },
         {
           "_styles": {
@@ -806,15 +722,16 @@
             },
             ".card-number": {
               "left": "-20px"
+            },
+            ".mbr-iconfont": {
+              "color": "@primaryColor",
+              "border-color": "@primaryColor"
             }
           },
-          "title2": "Responsive",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
           "subtitle4": "Mobirise gives you the freedom to develop",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
           "title5": "Trendy Website Blocks",
@@ -828,14 +745,20 @@
             "Theme"
           ],
           "_name": "features5",
+          "number1": "1",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_anchor": "features5-d",
           "_params": {
-            "imageSize": 50,
             "paddingTop": 2,
             "paddingBottom": 2,
-            "bgImageRadio": false,
+            "containerColor1": "#5aac98",
+            "containerColor2": "#8accb8",
+            "iconsBgColor": "@primaryColor",
             "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/features/05.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": true,
             "bgVideo": {
@@ -845,17 +768,17 @@
             "overlay": true,
             "overlayOpacity": 0.9,
             "overlayColor": "#ecf0f1",
-            "showImages": true,
-            "showNumber": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true
+            "showHeading": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "columns": 3
           },
+          "title1": "Bootstrap 4",
           "media1": {
             "image": {
               "active": false,
-              "src": "@THEME_PATH@/components/_images/notebook/nb12.png",
+              "src": "@ADDONS_PATH@/colorm/components/_images/notebook/nb12.png",
               "class": "card-img-top",
               "width": 600
             },
@@ -869,11 +792,9 @@
               "loop": false
             }
           },
-          "number1": "1",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "title1": "Bootstrap 4",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>"
+          "title2": "Responsive",
+          "title3": "Web Fonts",
+          "title4": "Unlimited Sites"
         },
         {
           "alias": "colorm/components",
@@ -960,7 +881,7 @@
             "paddingBottom": 0,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/pricing-table/pricing-table-bg.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1041,7 +962,7 @@
             "paddingBottom": 0,
             "bgImageRadio": false,
             "parallax": false,
-            "bgImage": "@THEME_PATH@/components/_images/pricing-table/pricing-table-bg.jpg",
+            "bgImage": "@ADDONS_PATH@/colorm/components/_images/pricing-table/pricing-table-bg.jpg",
             "bgColor": "#ecf0f1",
             "bgColorRadio": true,
             "bgVideo": {
@@ -1136,13 +1057,13 @@
               "color": "#ffffff"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#20638f"
+              "background": "#1a242f"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2677ac!important"
+              "background": "#273646!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2980b9"
+              "background": "#2c3e50"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1165,7 +1086,7 @@
           "_name": "menu",
           "_anchor": "menu-j",
           "_params": {
-            "bgColor": "#2980b9",
+            "bgColor": "#2c3e50",
             "fontSize": "0.85",
             "fontName": {
               "name": "Oswald",
@@ -1197,221 +1118,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CITY TATTERSALLS BOWLING COMBINATION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://ctbowling.blogspot.com\" target=\"_blank\">Blog</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FIXTURES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "font-weight": "700"
-            },
-            ".display-6": {
-              "text-transform": "none",
-              "letter-spacing": "0px",
-              "font-weight": "400",
-              "color": "#fff"
-            },
-            ".mbr-cards-row": {
-              "margin-top": "40px"
-            }
-          },
-          "title1": "Bootstrap 4",
-          "title2": "Responsive",
-          "title3": "Web Fonts",
-          "title4": "Unlimited Sites",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features15",
-          "_anchor": "features15-l",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "parallax": false,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/01.jpg",
-            "bgColor": "#434350",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#333333",
-            "showTitle": true,
-            "showImages": true,
-            "columns": 3,
-            "showTitles": true,
-            "ShowTexts": true
-          },
-          "title": "The Men’s Lawn Bowls Club associated with Sydney City Tattersalls. &nbsp;<div><br></div><div>Club meets and plays on Tuesdays throughout the year</div><div><br></div><div>New members and visiting bowlers warmly welcomed</div>",
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/55-2967232-ips090215iusbowls5-fct910x683x66-620x464.jpg",
-              "class": "card-img-top",
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          },
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app."
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#9fa3a7"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase"
-            },
-            ".mbr-section-text": {
-              "color": "#c0392b"
-            }
-          },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features8",
-          "_anchor": "features8-m",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "bgColor": "#ecf0f1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#ecf0f1",
-            "showNumber": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": true,
-            "showImages": true
-          },
-          "number1": "1",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "title1": "Bootstrap 4",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nb11.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".lead": {
-              "color": "#9fa3a7"
-            },
-            ".mbr-section-subtitle": {
-              "text-transform": "uppercase",
-              "color": "#000000",
-              "font-size": "25px"
-            },
-            "DIV": {
-              "color": "#000000"
-            }
-          },
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "alias": "colorm/components",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features8",
-          "_anchor": "features8-n",
-          "_params": {
-            "imageSize": 50,
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
-            "bgColor": "#ecf0f1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.9,
-            "overlayColor": "#ecf0f1",
-            "showNumber": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": true,
-            "showButtons": false,
-            "showImages": true
-          },
-          "number1": "",
-          "subtitle1": "CITY TATTERSALLS BOWLING combination",
-          "title1": "The Men’s Lawn Bowls Club associated with Sydney City Tattersalls. &nbsp;<div><br></div><div>Club meets and plays on Tuesdays throughout the year</div><div><br></div><div>New members and visiting bowlers warmly welcomed</div>",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/introduction-to-lawnbowls-600x399-53.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            }
-          }
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CITY TATTERSALLS BOWLING COMBINATION</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FIXTURES</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
