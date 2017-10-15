@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 30,
+    "uniqCompNum": 28,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -297,7 +297,7 @@
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bowls-small-600x4000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bowls-small-600x4006.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -307,6 +307,46 @@
               "linkInNewWindow": false
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle, .btn": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-weight": "700"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2",
+          "_params": {
+            "buttonAlign": "right",
+            "iconsColor": "#ffffff",
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
+            "bgColor": "#8e44ad",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "DROP-DEAD EASY<br>WEBSITE<br>MAKER",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
           "_styles": {
@@ -865,19 +905,19 @@
                 "image": "@PROJECT_PATH@/assets/images/01.jpeg",
                 "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia sit molestias error, magni deleniti consectetur voluptas soluta, placeat quo voluptatem tempora ullam, velit in sunt suscipit recusandae natus quia porro eveniet? Quis vitae ad voluptas, ullam deserunt. Odit sapiente laborum, obcaecati facere iusto animi alias iste quis. Itaque molestiae quibusdam voluptatibus suscipit, quisquam sequi reiciendis minima nihil. Reiciendis sed, mollitia minima aliquam! Porro vitae error enim totam accusamus consequuntur laboriosam, esse quisquam nulla quibusdam! Libero consequuntur saepe, quo perspiciatis itaque beatae accusamus minus veniam aspernatur, neque, dignissimos repellat modi laborum commodi dolores officia voluptates! Molestias cumque adipisci ipsa, rerum non.",
-                "date": ""
+                "date": "10 june 2016"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/02.jpeg",
                 "title": "Lorem ipsum dolor sit amet, Illo autem, cum voluptas?",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At id in ipsam accusantium totam ex est, repellat, reiciendis non et minus beatae velit animi eaque nemo nam enim, praesentium accusamus, saepe ut odit eligendi asperiores. Nemo quis expedita dignissimos officia, aliquam ex porro explicabo dicta, molestias, quisquam pariatur ea ratione neque distinctio magni iusto est, alias iste repellendus. Deleniti, quis laboriosam libero doloremque iste nostrum molestias alias dicta suscipit labore reiciendis eum quas facere placeat repellat voluptate quaerat accusamus corrupti. Amet, iusto, suscipit nemo perferendis blanditiis laudantium dolor voluptate eaque, sint, enim corporis eius necessitatibus accusantium magni dignissimos non neque<br><br><br><br><br><br><br><br><br>.",
-                "date": "<br><br>"
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At id in ipsam accusantium totam ex est, repellat, reiciendis non et minus beatae velit animi eaque nemo nam enim, praesentium accusamus, saepe ut odit eligendi asperiores. Nemo quis expedita dignissimos officia, aliquam ex porro explicabo dicta, molestias, quisquam pariatur ea ratione neque distinctio magni iusto est, alias iste repellendus. Deleniti, quis laboriosam libero doloremque iste nostrum molestias alias dicta suscipit labore reiciendis eum quas facere placeat repellat voluptate quaerat accusamus corrupti. Amet, iusto, suscipit nemo perferendis blanditiis laudantium dolor voluptate eaque, sint, enim corporis eius necessitatibus accusantium magni dignissimos non neque.",
+                "date": "10 june 2016"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/03.jpeg",
                 "title": "Ad harum eos, quisquam assumenda molestiae neque veritatis",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae delectus, laborum consequatur assumenda placeat, porro aspernatur cumque vero fugit harum quis modi obcaecati vel itaque numquam tenetur voluptatum maxime culpa quam eum consectetur veniam. Itaque totam, doloribus at? Tenetur, temporibus mollitia cupiditate. Doloremque quasi fugit velit et similique, neque optio facilis perferendis vitae minima quidem veniam totam quaerat suscipit tenetur aperiam id molestiae nobis cupiditate a rem dolorum doloribus? Suscipit officia expedita, nostrum et tempora amet repellat. Est molestiae odit debitis eaque, accusantium tempora. Ipsam eligendi dolores, illum magni maiores. Temporibus accusantium velit earum et repellendus labore accusamus iusto id.",
-                "date": ""
+                "date": "10 june 2016"
               }
             ],
             "showImages": true,
@@ -1298,29 +1338,80 @@
           }
         },
         {
+          "_styles": {
+            ".lead": {
+              "color": "#9fa3a7"
+            },
+            ".mbr-section-subtitle": {
+              "text-transform": "uppercase",
+              "color": "#000000",
+              "font-size": "25px"
+            },
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "alias": "colorm/components",
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#000000"
-            },
-            "P": {
-              "color": "#2980b9"
-            },
-            "DIV": {
-              "color": "#2980b9"
-            }
-          },
-          "_anchor": "content2-t",
+          "_name": "features8",
+          "_anchor": "features8-n",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#ffffff"
+            "imageSize": 50,
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/features/05.jpg",
+            "bgColor": "#ecf0f1",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ecf0f1",
+            "showNumber": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "showImages": true
           },
-          "text": "<p><b><br></b></p><p><b><br></b></p><p><b>CLUB FIXTURES JULY TO DECEMBER  2017 &nbsp;</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>JULY &nbsp;</b></p><p><b>Tuesday 4\tGreenlees Park  97431907\t12 noon</b></p><p><b>Tuesday 11\tKeith Free Triples Greenlees Park\t10am</b></p><p><b>Tuesday 18\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 25\tGreenlees Park\t12 noon</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>AUGUST &nbsp;</b></p><p><b>Tuesday 1\tRalph Johns Handicap Fours -Greenlees Park\t9.30 am</b></p><p><b>Tuesday 8\tHunters Hill 98173324\t1pm</b></p><p><b>Tuesday 15\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 22\tAGM Greenlees Park-\t10.30 am</b></p><p><b>&nbsp;Meeting 10.30 am -Lunch 12 noon- Bowls 1pm&nbsp;</b></p><p><b>Tuesday 29\tGymea 95244688\t1pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>SEPTEMBER &nbsp;</b></p><p><b>Tuesday 5\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 12\tPadstow  977738917\t1pm</b></p><p><b>Tuesday 19\tPutney 98074964 -  Sausage Sizzle 11.45am\t12.30pm</b></p><p><b>Tuesday 26\tGreenacre  97597445\t1pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>OCTOBER &nbsp;</b></p><p><b>Tuesday 3\tLaurie Taylor Memorial- Greenlees Park\t11.30am</b></p><p><b>Tuesday 10\tWest Sports   97161800\t12.30pm</b></p><p><b>Tuesday 17\tDenistone  98743650\t1pm</b></p><p><b>Tuesday 24\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 31\tSouth Coogee    93446557\t12.30pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>NOVEMBER &nbsp;</b></p><p><b>Tuesday 7\tMelbourne Cup - no bowls&nbsp;</b></p><p><b>Tuesday 14\tGrandviews 95332255\t1pm</b></p><p><b>Tuesday 21\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 28\tGreenlees Park Xmas Triples\t10am&nbsp;</b><b style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp;Lunch 1pm&nbsp;</b></p><p><b><br></b></p><p><b>DECEMBER &nbsp;</b></p><p><b>Tuesday 5\tXmas Party \tTBA</b></p><p><b>Tuesday 12 &nbsp;</b></p><p><b>&nbsp;&nbsp;</b></p><p><b><br></b></p><p></p>"
+          "number1": "",
+          "subtitle1": "CITY TATTERSALLS BOWLING combination",
+          "title1": "The Men’s Lawn Bowls Club associated with Sydney City Tattersalls. &nbsp;<div><br></div><div>Club meets and plays on Tuesdays throughout the year</div><div><br></div><div>New members and visiting bowlers warmly welcomed</div>",
+          "caption1": "",
+          "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/introduction-to-lawnbowls-600x399-53.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          }
         }
       ]
     }

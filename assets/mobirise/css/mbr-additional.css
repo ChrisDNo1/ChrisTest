@@ -757,14 +757,6 @@ blockquote {
 #features8-q .mbr-section-text B {
   font-size: 30px;
 }
-#header2-2 .mbr-section-title,
-#header2-2 .mbr-section-subtitle,
-#header2-2 .btn {
-  color: #fff;
-}
-#header2-2 .mbr-section-title {
-  font-weight: 700;
-}
 #header9-3 .elements-content {
   padding-bottom: 50px;
 }
@@ -910,14 +902,12 @@ blockquote {
 #features8-m .mbr-section-text {
   color: #c0392b;
 }
-#features8-n .lead {
-  color: #9fa3a7;
-}
-#features8-n .mbr-section-subtitle {
-  text-transform: uppercase;
+#content2-t BLOCKQUOTE {
   color: #000000;
-  font-size: 25px;
 }
-#features8-n DIV {
-  color: #000000;
+#content2-t P {
+  color: #2980b9;
+}
+#content2-t DIV {
+  color: #2980b9;
 }

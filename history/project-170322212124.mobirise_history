@@ -22,10 +22,13 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 30,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishFtpPath": "public_html",
+    "publishType": "local",
+    "publishPath": ""
   },
   "pages": {
     "index.html": {
@@ -43,7 +46,7 @@
             ".mbr-section-title": {
               "font-weight": "700",
               "color": "#2c3e50",
-              "font-size": "46px"
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
               "text-transform": "uppercase",
@@ -297,7 +300,7 @@
           "button1": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"https://mobirise.com\"><span class=\"cm-icon cm-icon-arrowright mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/bowls-small-600x4000.jpg",
+              "src": "@PROJECT_PATH@/assets/images/bowls-small-600x4002.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -307,6 +310,46 @@
               "linkInNewWindow": false
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle, .btn": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-weight": "700"
+            }
+          },
+          "alias": "colorm/components",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-2",
+          "_params": {
+            "buttonAlign": "right",
+            "iconsColor": "#ffffff",
+            "parallax": true,
+            "bgImageRadio": true,
+            "showArrow": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/05.jpg",
+            "bgColor": "#8e44ad",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=HnPYeBJ9JCc"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.9,
+            "overlayColor": "#ffffff",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "DROP-DEAD EASY<br>WEBSITE<br>MAKER",
+          "text": "Cut down the development time with drag-and-drop website builder. Drop the blocks you like into your page, edit content inline and publish - no technical skills required.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-twitter mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-pinterest mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-instagram mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-linkedin mbr-iconfont mbr-iconfont-btn\"></span></a><a data-app-btn=\"true\" class=\"btn btn-icon\" href=\"https://mobirise.com\"><span class=\"socicon socicon-facebook mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "arrowDown": "@PROJECT_PATH@/assets/images/arrowdown.png"
         },
         {
           "_styles": {
@@ -865,19 +908,19 @@
                 "image": "@PROJECT_PATH@/assets/images/01.jpeg",
                 "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia sit molestias error, magni deleniti consectetur voluptas soluta, placeat quo voluptatem tempora ullam, velit in sunt suscipit recusandae natus quia porro eveniet? Quis vitae ad voluptas, ullam deserunt. Odit sapiente laborum, obcaecati facere iusto animi alias iste quis. Itaque molestiae quibusdam voluptatibus suscipit, quisquam sequi reiciendis minima nihil. Reiciendis sed, mollitia minima aliquam! Porro vitae error enim totam accusamus consequuntur laboriosam, esse quisquam nulla quibusdam! Libero consequuntur saepe, quo perspiciatis itaque beatae accusamus minus veniam aspernatur, neque, dignissimos repellat modi laborum commodi dolores officia voluptates! Molestias cumque adipisci ipsa, rerum non.",
-                "date": ""
+                "date": "10 june 2016"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/02.jpeg",
                 "title": "Lorem ipsum dolor sit amet, Illo autem, cum voluptas?",
-                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At id in ipsam accusantium totam ex est, repellat, reiciendis non et minus beatae velit animi eaque nemo nam enim, praesentium accusamus, saepe ut odit eligendi asperiores. Nemo quis expedita dignissimos officia, aliquam ex porro explicabo dicta, molestias, quisquam pariatur ea ratione neque distinctio magni iusto est, alias iste repellendus. Deleniti, quis laboriosam libero doloremque iste nostrum molestias alias dicta suscipit labore reiciendis eum quas facere placeat repellat voluptate quaerat accusamus corrupti. Amet, iusto, suscipit nemo perferendis blanditiis laudantium dolor voluptate eaque, sint, enim corporis eius necessitatibus accusantium magni dignissimos non neque<br><br><br><br><br><br><br><br><br>.",
-                "date": "<br><br>"
+                "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At id in ipsam accusantium totam ex est, repellat, reiciendis non et minus beatae velit animi eaque nemo nam enim, praesentium accusamus, saepe ut odit eligendi asperiores. Nemo quis expedita dignissimos officia, aliquam ex porro explicabo dicta, molestias, quisquam pariatur ea ratione neque distinctio magni iusto est, alias iste repellendus. Deleniti, quis laboriosam libero doloremque iste nostrum molestias alias dicta suscipit labore reiciendis eum quas facere placeat repellat voluptate quaerat accusamus corrupti. Amet, iusto, suscipit nemo perferendis blanditiis laudantium dolor voluptate eaque, sint, enim corporis eius necessitatibus accusantium magni dignissimos non neque.",
+                "date": "10 june 2016"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/03.jpeg",
                 "title": "Ad harum eos, quisquam assumenda molestiae neque veritatis",
                 "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae delectus, laborum consequatur assumenda placeat, porro aspernatur cumque vero fugit harum quis modi obcaecati vel itaque numquam tenetur voluptatum maxime culpa quam eum consectetur veniam. Itaque totam, doloribus at? Tenetur, temporibus mollitia cupiditate. Doloremque quasi fugit velit et similique, neque optio facilis perferendis vitae minima quidem veniam totam quaerat suscipit tenetur aperiam id molestiae nobis cupiditate a rem dolorum doloribus? Suscipit officia expedita, nostrum et tempora amet repellat. Est molestiae odit debitis eaque, accusantium tempora. Ipsam eligendi dolores, illum magni maiores. Temporibus accusantium velit earum et repellendus labore accusamus iusto id.",
-                "date": ""
+                "date": "10 june 2016"
               }
             ],
             "showImages": true,
@@ -1067,7 +1110,8 @@
               "display": "none !important"
             },
             ".navbar-caption": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "12px"
             },
             ".navbar-toggler": {
               "color": "#ffffff"
@@ -1158,7 +1202,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">CITY TATTERSALLS BOWLING COMBINATION</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://ctbowling.blogspot.com\">WET WEATHER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">FIXTURES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://ctbowling.blogspot.com\">WET WEATHER</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#content2-s\">FIXTURES</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_styles": {
@@ -1314,13 +1358,13 @@
               "color": "#2980b9"
             }
           },
-          "_anchor": "content2-t",
+          "_anchor": "content2-s",
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#ffffff"
           },
-          "text": "<p><b><br></b></p><p><b><br></b></p><p><b>CLUB FIXTURES JULY TO DECEMBER  2017 &nbsp;</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>JULY &nbsp;</b></p><p><b>Tuesday 4\tGreenlees Park  97431907\t12 noon</b></p><p><b>Tuesday 11\tKeith Free Triples Greenlees Park\t10am</b></p><p><b>Tuesday 18\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 25\tGreenlees Park\t12 noon</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>AUGUST &nbsp;</b></p><p><b>Tuesday 1\tRalph Johns Handicap Fours -Greenlees Park\t9.30 am</b></p><p><b>Tuesday 8\tHunters Hill 98173324\t1pm</b></p><p><b>Tuesday 15\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 22\tAGM Greenlees Park-\t10.30 am</b></p><p><b>&nbsp;Meeting 10.30 am -Lunch 12 noon- Bowls 1pm&nbsp;</b></p><p><b>Tuesday 29\tGymea 95244688\t1pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>SEPTEMBER &nbsp;</b></p><p><b>Tuesday 5\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 12\tPadstow  977738917\t1pm</b></p><p><b>Tuesday 19\tPutney 98074964 -  Sausage Sizzle 11.45am\t12.30pm</b></p><p><b>Tuesday 26\tGreenacre  97597445\t1pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>OCTOBER &nbsp;</b></p><p><b>Tuesday 3\tLaurie Taylor Memorial- Greenlees Park\t11.30am</b></p><p><b>Tuesday 10\tWest Sports   97161800\t12.30pm</b></p><p><b>Tuesday 17\tDenistone  98743650\t1pm</b></p><p><b>Tuesday 24\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 31\tSouth Coogee    93446557\t12.30pm</b></p><p><b>&nbsp;&nbsp;</b></p><p><b>NOVEMBER &nbsp;</b></p><p><b>Tuesday 7\tMelbourne Cup - no bowls&nbsp;</b></p><p><b>Tuesday 14\tGrandviews 95332255\t1pm</b></p><p><b>Tuesday 21\tGreenlees Park\t12 noon</b></p><p><b>Tuesday 28\tGreenlees Park Xmas Triples\t10am&nbsp;</b><b style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp;Lunch 1pm&nbsp;</b></p><p><b><br></b></p><p><b>DECEMBER &nbsp;</b></p><p><b>Tuesday 5\tXmas Party \tTBA</b></p><p><b>Tuesday 12 &nbsp;</b></p><p><b>&nbsp;&nbsp;</b></p><p><b><br></b></p><p></p>"
+          "text": "<p><b><br></b></p><p><b><br></b></p><p><b>CLUB FIXTURES FEBRUARY TO JUNE 2017</b></p><p><span style=\"font-size: 1rem; line-height: 1.85em;\">&nbsp;</span></p><p></p><div><b>FEBRUARY</b></div><div>Tuesday 7th  Greenlees Park      97431907\t12 noon</div><div>Tuesday 14th Laurie Taylor Memorial -Greenlees Park\t11.30 am</div><div>Tuesday 21st Club Challenge -Greenlees Park 12 noon</div><div>Monday 27th Terrigal Trip -  Bus leaves Greenlees Park 9:15am  Game to start 11.45 am\t9.15 am</div><div><b>MARCH&nbsp;</b></div><div>Tuesday 7th  Club Pairs   Greenlees Park\t10am</div><div>Tuesday 14th EastLakes  9317 4560- nibbles 11.30 am\t12 noon</div><div>Tuesday 21st RNSWBA- Greenlees Park\t12 .30 pm</div><div>Tuesday 28th West Sports    97976888\t12.30  pm</div><div><b>APRIL</b>&nbsp;</div><div>Tuesday 4th  Turf Bowlers Carnival -Bowls at Greenlees Park\t12 noon</div><div>Tuesday 11th Greenlees Park\t12 noon</div><div>Tuesday 18th Greenlees Park\t12 noon</div><div>Tuesday 25th Keith Free Triples- Greenlees Park\t10:00 AM</div><div><b>MAY&nbsp;</b></div><div>Tuesday 2nd  Putney 9807 4964 -sausage sizzle 11.30 am\t12.30 pm</div><div>Tuesady 9th  Greenlees Park\t12 noon</div><div>Tuesday 16th Leichhardt   9569 1936\t1pm</div><div>Tuesday 23th Taren Point   9522 4311\t1pm</div><div>Tuesday 30th Greenlees Park\t12 noon</div><div><b>JUNE&nbsp;</b></div><div>Tuesday 6th  Club Singles -Greenlees Park\t10am</div><div>Tuesday 13th Greenlees Park\t12 noon</div><div>Tuesday 20th Burwood Diggers   Greenlees park\t12 noon</div><div>Tuesday 27th Brush Park  98581166 -Sausage Sizzle 11.30am\t12.30 pm</div><div><br></div><p></p>"
         }
       ]
     }
